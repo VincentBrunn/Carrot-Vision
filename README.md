@@ -1,8 +1,4 @@
 # Carrot-Vision
-Demo OpenCV Project that uses local or external camera to identify any carrots in frame.
-
----
-
 # OpenCV Carrot Tracking with Kalman Filter
 
 This project implements a carrot tracking system using OpenCV and Python. The system processes video input to track the position of a carrot in real-time, applying computer vision techniques and a Kalman Filter for smooth trajectory estimation.
